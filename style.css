@@ -1,0 +1,387 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/* default start  */
+#header1{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-top: 30px;
+}
+#container1{
+    width: 100%;
+    height: 70%;
+    background-color: gainsboro;
+    /* padding: 100px 120px; */
+    padding: 30px 120px 100px 120px;
+   
+}
+#container1 #div1{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(224, 129, 95);
+    
+}
+#container1 #divtwo{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(95, 224, 127);
+    float: left;
+    clear: left;
+
+}
+#container1 #divthree{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(234, 161, 174);
+    float: left;
+}
+#container1 #divfour{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(173, 176, 173);
+    clear: left;
+    margin-bottom: 200px;
+}
+#footer1{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+/* default end here */
+
+
+h2{
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(80, 8, 8);
+    width: 250px;
+    height: 50px;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+/* laout1 start  */
+#header{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-top: 30px;
+}
+#container{
+    width: 100%;
+    height: 50%;
+    background-color: gainsboro;
+    padding: 30px 120px 100px 120px;
+
+   
+}
+#container #div1{
+    width: 95%;
+    height: 35%;
+    background-color: rgb(224, 129, 95);
+    
+}
+#container #div2{
+    width: 30%;
+    height: 35%;
+    background-color: rgb(95, 224, 127);
+    float: left;
+
+}
+#container #div3{
+    width: 65%;
+    height: 35%;
+    background-color: rgb(234, 161, 174);
+    float: left;
+}
+#container #div4{
+    width: 95%;
+    height: 35%;
+    background-color: rgb(173, 176, 173);
+    clear: left;
+}
+#footer{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+/* laout one end here */
+
+/* layout two starts  */
+
+
+#headertwo{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-top: 30px;
+}
+#containertwo{
+    width: 100%;
+    height: 50%;
+    background-color: gainsboro;
+    padding: 50px 120px 100px 120px;
+   
+}
+#containertwo>#fiv{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(224, 129, 95);
+    
+}
+#containertwo #six{
+    width: 30%;
+    height: 30%;
+    background-color: rgb(95, 224, 127);
+    float: left;
+
+}
+#containertwo #seven{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(234, 161, 174);
+    float: left;
+    clear: left;
+}
+#containertwo #eight{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(173, 176, 173);
+    clear: left;
+}
+#footertwo{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+/* second layout starts here */
+
+
+/* third layout start here */
+
+
+
+#headerthree{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-top: 30px;
+}
+#containerthree{
+    width: 100%;
+    height: 50%;
+    background-color: gainsboro;
+    padding: 50px 120px 100px 120px;
+   
+}
+#containerthree>#fiv{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(224, 129, 95);
+    
+}
+#containerthree>#six{
+    width: 65%;
+    height: 30%;
+    background-color:  rgb(234, 161, 174);
+    float: left;
+    
+
+}
+#containerthree>#seven{
+    width: 30%;
+    height: 30%;
+    background-color: rgb(95, 224, 127);
+    float: left;
+    
+}
+#containerthree>#eight{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(35, 97, 110);
+    float: left;
+}
+#footerthree{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+
+/* third layout end herer */
+
+/* layout four start here */
+
+
+
+
+
+#headerfour{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-top: 30px;
+}
+#containerfour{
+    width: 100%;
+    height: 50%;
+    background-color: gainsboro;
+    padding: 50px 120px 100px 120px;
+   
+}
+#containerfour>#fiv{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(224, 129, 95);
+    
+}
+#containerfour>#six{
+    width: 35%;
+    height: 30%;
+    background-color:  rgb(95, 224, 127);
+    float: right;
+    margin-right: 64px;
+    
+
+}
+#containerfour>#seven{
+    width: 95%;
+    height: 30%;
+    background-color:  rgb(234, 161, 174);
+    clear: both;
+    
+}
+#containerfour>#eight{
+    width: 95%;
+    height: 30%;
+    background-color: rgb(35, 97, 110);
+    float: left;
+}
+#footerfour{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+/* layout four ends here */
+
+
+/* laout fivee starts here */
+
+
+#headerfive{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-top: 30px;
+}
+#containerfive{
+    width: 100%;
+    height: 50%;
+    background-color: gainsboro;
+    padding: 50px 120px 10px 120px;
+   
+}
+#containerfive>#fiv{
+    width: 35%;
+    height: 30%;
+    background-color: rgb(224, 129, 95);
+    
+}
+#containerfive>#six{
+    width: 95%;
+    height: 30%;
+    background-color:  rgb(95, 224, 127);
+    /* float: right; */
+    /* margin-right: 64px; */
+    
+
+}
+#containerfive>#seven{
+    width: 60%;
+    height: 30%;
+    background-color:  rgb(35, 97, 110);
+    float: left;
+    
+}
+#containerfive>#eight{
+    width: 35%;
+    height: 30%;
+    background-color:  rgb(234, 161, 174) ;
+    float: left;
+}
+#footerfive{
+    width: 100%;
+    height: 9%;
+    background-color: skyblue;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+
+
+/* layout five ends here  */
